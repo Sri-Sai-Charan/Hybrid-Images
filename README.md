@@ -12,3 +12,15 @@ We provided 7 pairs of aligned images. The alignment is important because it aff
 
 <img src='Results/output_1.png'>
 <img src='Results/output_2.png'>
+
+# Folder Structure
+```
+📦Hybrid-Images
+ ┣ 📂Results
+ ┃ ┣ 📜output_1.png
+ ┃ ┗ 📜output_2.png
+ ┣ 📜.gitignore
+ ┣ 📜Hybrid_images.ipynb
+ ┣ 📜LICENSE
+ ┗ 📜README.md
+```
